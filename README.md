@@ -6,3 +6,4 @@
  Strong background in SQL databases (MSSQL, MySQL, PostgreSQL), NoSQL (MongoDB,
  Redis, Elasticsearch), and DevOps (Azure, AWS, CI/CD pipelines, Docker, Kubernetes).</p>
 
+
