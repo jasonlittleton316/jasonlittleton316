@@ -1,13 +1,3 @@
-<h1 align="center">❤Hi 👋  I'm Jason!❤</h1>
-<br>
-<p> Senior C# .NET Developer with 9+ years of experience in building scalable, high-performance
- applications. Expert in ASP.NET Core, Blazor, Angular, React, and microservices architecture.
- Exploring advancements in AI/ML and their applications in software development.
- Strong background in SQL databases (MSSQL, MySQL, PostgreSQL), NoSQL (MongoDB,
- Redis, Elasticsearch), and DevOps (Azure, AWS, CI/CD pipelines, Docker, Kubernetes).</p>
-
-
-
 <h3 align="left">
  Welcome to My Profile!
 
@@ -28,3 +18,13 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+
+
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonlittleton316&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=jasonlittleton316&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jasonlittleton316&theme=default_repocard&hide_border=false)<br/>
+
+
